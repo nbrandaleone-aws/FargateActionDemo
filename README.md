@@ -1,6 +1,6 @@
 # FargateActionDemo
 
-How to use GitHub Actions with AWS Fargate.
+How to use GitHub Actions with AWS Fargate
 
 [Github actions and Fargate](https://aws.amazon.com/blogs/opensource/github-actions-aws-fargate/)
 
